@@ -1,0 +1,12 @@
+{
+	"name": "teeworldsclientidentification",
+	"displayName": "Teeworlds Client Identification",
+	"type": "module",
+	"dependencies": {
+		"express": "^4.21.2"
+	},
+	"scripts": {
+		"start": "node src/index.js",
+		"test": "node test/test.js"
+	}
+}
