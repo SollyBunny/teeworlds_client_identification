@@ -152,7 +152,7 @@ Code: `404` (Address not found)
 
 Code: `404` (Name not found)
 
-Code: `409` Name already registered
+Code: `409` (Name already registered)
 
 ### Update Request Format
 
