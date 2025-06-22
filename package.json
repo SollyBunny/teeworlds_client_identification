@@ -1,0 +1,20 @@
+{
+  "name": "teeworlds_client_identification",
+  "version": "0.0.0",
+  "description": "Teeworlds Client Identification Server",
+  "homepage": "https://github.com/SollyBunny/teeworlds_client_identification#readme",
+  "bugs": {
+    "url": "https://github.com/SollyBunny/teeworlds_client_identification/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SollyBunny/teeworlds_client_identification.git"
+  },
+  "license": "GPL-3.0",
+  "author": "SollyBunny",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "run": "node ./index.mjs"
+  }
+}
